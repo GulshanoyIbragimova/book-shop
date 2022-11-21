@@ -90,7 +90,7 @@ function revealText () {
    
    
 }
-btnShowMore.addEventListener("click", alert("hiiii"))
+
 
 
 
